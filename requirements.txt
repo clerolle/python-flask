@@ -1,0 +1,10 @@
+flask
+flask-smorest
+python-dotenv
+marshmallow
+typing_extensions
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended
+passlib
+flask-cors
